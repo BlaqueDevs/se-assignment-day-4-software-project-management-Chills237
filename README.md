@@ -214,7 +214,7 @@ Keep It Concise & Engaging – Use simple, relatable language.
 ## 12. What data is available regarding the market size and growth potential for your software?
 Market Size and Projections: Reports indicate that the global software development market is valued in the hundreds of billions of U.S. dollars, and is projected to continue rising
 
-Overall Growth: The software market is demonstrating robust growth, with projections indicating substantial expansion in the coming years.allenges?
+Overall Growth: The software market is demonstrating robust growth, with projections indicating substantial expansion in the coming years.
 
 Competitive Landscape
 Who are your major competitors?
